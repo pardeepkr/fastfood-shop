@@ -2,3 +2,4 @@
 chowmin
 momos
 rol
+shop magi
